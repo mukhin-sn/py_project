@@ -1,5 +1,8 @@
+import funcs
+
+
 def main():
-    pass
+    print(funcs.summ_ab(20, 60))
 
 
 if __name__ == '__main__':
